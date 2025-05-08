@@ -4,7 +4,7 @@ import './Gallery.css';
 const Gallery = () => {
   return (
     <div className="gallery-container">
-      <h1>Our Gallery</h1>
+      <h1>Our Gallery and hiii</h1>
       {/* Add your gallery content here */}
     </div>
   );
